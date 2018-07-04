@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="lay_height">120dp</dimen>
+    <dimen name="lay_margin">1dp</dimen>
+    <dimen name="image_width">120dp</dimen>
+    <dimen name="l_m_end">5dp</dimen>
+    <dimen name="title_height">30dp</dimen>
+    <dimen name="title_textSize">15sp</dimen>
+    <dimen name="description_textSize">10sp</dimen>
+    <dimen name="sort_textSize">15sp</dimen>
+    <dimen name="sort_width">60dp</dimen>
+</resources>
